@@ -14,7 +14,7 @@ class _ListViewPage2State extends State<ListViewPage2> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('CLINICA Odontologica JT'),
+          title: Text('CLINICA ODONTOLOGICA JT'),
         ),
         body: _milista());
   }
