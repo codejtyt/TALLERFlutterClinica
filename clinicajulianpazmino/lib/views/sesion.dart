@@ -59,6 +59,7 @@ class _SesionState extends State<Sesion> {
           height: 10,
         ),
         TextField(
+          obscureText: true,
           controller: _pass,
           textCapitalization: TextCapitalization.sentences,
           decoration: InputDecoration(
