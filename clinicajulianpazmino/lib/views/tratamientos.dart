@@ -11,17 +11,16 @@ class Tratamientos extends StatelessWidget {
         children: [
           ListTile(
             title: Text(
-                '1-Tratamiento : Suplementos, Calcio, Suero \n (3 Tabletas Diarias)\n'),
+                '1-Tratamiento : Ortodoncia Total + 1 kit + 3 repuestos + Retenedores \n'),
           ),
           Divider(),
           ListTile(
-            title: Text(
-                '2-Tratamiento : Acetominofem, Dolex, Noraver \n (Tomar si se siente dolor constante) \n'),
+            title:
+                Text('2-Tratamiento : Ortodoncia Total + 1kit + 1 Repuesto \n'),
           ),
           Divider(),
           ListTile(
-            title: Text(
-                '3-Tratamiento : Inyeccion 50mg, Beclometasona Nasal \n (1 aplicacion cada 12 Horas)\n'),
+            title: Text('3-Tratamiento : Ortodoncia Total + 1kit \n \n'),
           ),
         ],
       ),
